@@ -57,6 +57,10 @@ nav#menu li {
   padding: 10px; /*aumenta o espaço dentro do objeto*/
   margin: 2px; /* aumenta o espaço de fora entre os objetos*/
 }
+nav#menu li:hover {
+  background-color: #606060;
+}
+
 nav#menu h1 {
   display: none;
 }
